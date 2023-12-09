@@ -1,0 +1,7 @@
+.vscode
+tex/test.aux
+tex/test.fdb_latexmk
+tex/test.fls
+tex/test.log
+tex/test.synctex.gz
+tex/test.pdf
